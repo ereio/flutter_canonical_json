@@ -1,3 +1,5 @@
+Fork of canonical_json subproject found in https://github.com/google/dart-neats
+
 Canonical JSON Encoder/Decoder
 ==============================
 This package provides an encoder and decoder for encoding/decoding
